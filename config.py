@@ -1,0 +1,10 @@
+"""
+city
+article
+name
+price
+price_akcia
+is_have
+count
+magazine
+"""
